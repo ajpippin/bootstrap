@@ -1,2 +1,3 @@
+
 [.]
 checkout = git clone git@ssh.bitbucket.org:ajpippin/config-homedir.git .
