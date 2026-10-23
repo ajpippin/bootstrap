@@ -1,6 +1,5 @@
-#[.]
-#checkout = git clone git@ssh.bitbucket.org:ajpippin/config-homedir.git .
-
+[.]
+checkout = git clone git@ssh.bitbucket.org:ajpippin/config-homedir.git .
 
 [Projects]
 checkout = git clone git@ssh.bitbucket.org:ajpippin/projects.git Projects
