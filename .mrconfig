@@ -2,8 +2,7 @@
 #   cd $HOME
 #   mr -t bootstrap https://raw.githubusercontent.com/ajpippin/bootstrap/refs/heads/main/.mrconfig 
 #
-# To see what is in GitHub in case it's lagging:
-#   curl -s https://raw.githubusercontent.com/ajpippin/bootstrap/refs/heads/main/.mrconfig
+# raw.githubusercontent.com is a CDN, so it may have the wrong content cached.
 #
 
 [.]
