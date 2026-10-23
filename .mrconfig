@@ -1,6 +1,10 @@
+# Bootstrap the home directory:
+#   cd $HOME
+#   mr -t bootstrap https://raw.githubusercontent.com/ajpippin/bootstrap/refs/heads/main/.mrconfig 
+#
+# To see what is in GitHub in case it's lagging:
+#   curl -s https://raw.githubusercontent.com/ajpippin/bootstrap/refs/heads/main/.mrconfig
+#
 
 [.]
 checkout = git clone git@ssh.bitbucket.org:ajpippin/config-homedir.git .
-
-[.config]
-checkout = git clone git@ssh.bitbucket.org:ajpippin/config-xdg_config_dir.git .config
