@@ -1,3 +1,6 @@
 
 [.]
 checkout = git clone git@ssh.bitbucket.org:ajpippin/config-homedir.git .
+
+[.config]
+checkout = git clone git@ssh.bitbucket.org:ajpippin/config-xdg_config_dir.git .config
